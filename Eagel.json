@@ -182,7 +182,7 @@
    "version": 14,
 //Notification api
    "titleNoti": "This is title text",
-   "messageNoti": "Myanmar, also called Burma, \n \ncountry, located in the western portion of mainland Southeast Asia.In 1989 the country’s official English name, \nwhich it had held since 1885, was changed from the Union of Burma to the Union of Myanmar; in the Burmese language the country has been known as Myanma (or, more precisely, Mranma Prañ) since the 13th century. \nThe English name of the city that served as the country’s capital from 1948 to 2006, Rangoon, also was dropped in 1989 in favour of the common Burmese name, Yangon.",
+   "messageNoti": " Eagel VPN App သည် ထိုင်းနိုင်ငံမှာနေသော ရွှေမြန်မာများအတွက် အင်တာနက်ကို စျေးနှုန်းသက်သာစွာဖြင့် အလွယ်တကူ အသုံးပြုနိုင်ရန် ရည်ရွယ်ပြီး ပြုလုပ်ထားခြင်းဖြစ်ပါသည်။ \n \n Eagel VPNသည် FREE နှင့် VIP ဟူ၍ နှစ်မျိုးအသုံးပြုနိုင်ပြီး FREE က အခမဲ့ အသုံးပြုနိုင်ပါသည်။ Free Serverများကို ထောက်ပံ့တဲ့အနေဖြင့်   ဗီဒီယိုကြော်ငြာများကို ကြည့်ပြီ အချိန်တိုးပေး ရပါမည်။\n \nEagel VPNကို အသုံးပြုတဲ့အတွက် လှိုက်လှိုက်လှဲလှဲ ကျေးဇူးအထူးတင်ပါသည်။",
    "imageNoti": "https://raw.githubusercontent.com/sansoe2022/ovpn-file/main/20230924_190724.jpg",
    "notiBadge": "1",
    "openNoti": true
